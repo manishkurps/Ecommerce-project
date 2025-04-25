@@ -1,4 +1,8 @@
-﻿# Ecommerce-project
+﻿# E-commerce Sales Dataset Analysis
+
+## Project Description:
+
+Developed a data pipeline and performed in-depth analysis on an e-commerce sales dataset using **Python** and **MySQL**. The project involved importing data from CSV files, storing it in a MySQL database, and performing both basic and advanced data analysis queries to uncover insights related to customer behavior, sales performance, and product trends.
 
 **Ecommerce sales dataset link :** https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 
